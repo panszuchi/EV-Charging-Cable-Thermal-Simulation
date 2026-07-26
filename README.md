@@ -1,7 +1,7 @@
 # Electro-Thermal & CFD Simulation of High-Power EV Charging Cables (600A)
 
 [![CAD](https://img.shields.io/badge/CAD-SolidWorks-red.svg)](https://www.solidworks.com/)
-[![CFD](https://img.shields.io/badge/CFD-Siemens%20FloEFD-blue.svg)](https://plm.sw.siemens.com/en-US/simcenter/floefd/)
+[![CFD](https://img.shields.io/badge/CFD-Siemens%20FloEFD-blue.svg)](https://www.siemens.com/en-gb/products/simcenter/fluids-thermal-simulation/floefd/)
 [![Institution](https://img.shields.io/badge/Institution-NTUT-green.svg)](https://www.ntut.edu.tw/)
 
 > **Academic Project** | Department of Energy and Refrigerating Air-Conditioning Engineering, National Taipei University of Technology (NTUT)  
