@@ -73,8 +73,8 @@ We evaluated three distinct operating scenarios to assess heat dissipation capac
 
 | Location | Case A: Water ($15.73^\circ\text{C}$) | Case B: DSO ($15.73^\circ\text{C}$) | Case C: Water ($40^\circ\text{C}$) |
 | :---: | :---: | :---: | :---: |
-| **Near Inlet (0.4m)** | <img src="assets/fig3.png" width="220"> | <img src="assets/fig4.png" width="220"> | <img src="assets/fig5.png" width="220"> |
-| **Near Outlet (4.6m)** | <img src="assets/fig6.png" width="220"> | <img src="assets/fig7.png" width="220"> | <img src="assets/fig8.png" width="220"> |
+| **Near Inlet (0.4m)** | <img src="fig3.png" width="220"> | <img src="fig4.png" width="220"> | <img src="fig5.png" width="220"> |
+| **Near Outlet (4.6m)** | <img src="fig6.png" width="220"> | <img src="fig7.png" width="220"> | <img src="fig8.png" width="220"> |
 
 ### Key Quantitative Findings:
 
