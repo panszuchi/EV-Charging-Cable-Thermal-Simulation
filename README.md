@@ -1,9 +1,4 @@
-<img width="550" height="406" alt="fig8" src="https://github.com/user-attachments/assets/d8f711b7-89a1-49a4-97d5-7bb7d54764dd" />
-<img width="657" height="487" alt="fig7" src="https://github.com/user-attachments/assets/e0ed4f47-fe92-43ed-a504-e8a06a032302" />
-<img width="713" height="476" alt="fig6" src="https://github.com/user-attachments/assets/f75b64b7-3a2b-4013-8b84-922dffd682ff" />
-<img width="579" height="516" alt="fig5" src="https://github.com/user-attachments/assets/2db772a4-1d1b-4c44-b550-3cb1c11d5c25" />
-<img width="552" height="519" alt="fig4" src="https://github.com/user-attachments/assets/013aa476-04e8-4428-92b5-a7c0c3e08c54" />
-<img width="549" height="516" alt="fig3" src="https://github.com/user-attachments/assets/10ccaaf6-f782-470d-8077-c8ed0982e88b" />
+
 # Electro-Thermal & CFD Simulation of High-Power EV Charging Cables (600A)
 
 [![CAD](https://img.shields.io/badge/CAD-SolidWorks-red.svg)](https://www.solidworks.com/)
