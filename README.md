@@ -1,4 +1,3 @@
-
 # Electro-Thermal & CFD Simulation of High-Power EV Charging Cables (600A)
 
 [![CAD](https://img.shields.io/badge/CAD-SolidWorks-red.svg)](https://www.solidworks.com/)
@@ -34,8 +33,7 @@ The 5-meter liquid-cooled EV charging cable consists of multiple concentric func
 | **Total Cable Length** | $L$ | 5.00 m | Cable axial length |
 
 <p align="center">
-  <img width="549" height="516" alt="fig3" src="https://github.com/user-attachments/assets/850f14ad-a531-448f-bfcd-bdc6cbae9e32" />
-
+  <img src="assets/cable_cross_section.png" width="70%" alt="Cable Cross-Section and Longitudinal Diagram">
   <br>
   <em>Figure 1: Cross-sectional and longitudinal view of the 600A liquid-cooled charging cable model.</em>
 </p>
@@ -74,10 +72,8 @@ We evaluated three distinct operating scenarios to assess heat dissipation capac
 
 | Location | Case A: Water ($15.73^\circ\text{C}$) | Case B: DSO ($15.73^\circ\text{C}$) | Case C: Water ($40^\circ\text{C}$) |
 | :---: | :---: | :---: | :---: |
-| **Near Inlet (0.4m)** | <img width="552" height="519" alt="fig4" src="https://github.com/user-attachments/assets/8bcfa8c6-ae0a-432e-9f07-cd434140816c" />
- |
-| **Near Outlet (4.6m)** | <img width="657" height="487" alt="fig7" src="https://github.com/user-attachments/assets/89edfea5-4fd4-4e74-ac4a-5191459240ea" />
- | <img src="assets/fig8.png" width="220"> |
+| **Near Inlet (0.4m)** | <img src="assets/fig3.png" width="220"> | <img src="assets/fig4.png" width="220"> | <img src="assets/fig5.png" width="220"> |
+| **Near Outlet (4.6m)** | <img src="assets/fig6.png" width="220"> | <img src="assets/fig7.png" width="220"> | <img src="assets/fig8.png" width="220"> |
 
 ### Key Quantitative Findings:
 
