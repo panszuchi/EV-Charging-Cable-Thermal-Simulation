@@ -33,7 +33,7 @@ The 5-meter liquid-cooled EV charging cable consists of multiple concentric func
 | **Total Cable Length** | $L$ | 5.00 m | Cable axial length |
 
 <p align="center">
-  <img width="1920" height="1080" alt="cable_cross_section" src="https://github.com/user-attachments/assets/2492ad7d-4816-4d28-a8ac-7c1405ec1a66" />
+  <img width="1536" height="864" alt="cable_cross_section" src="https://github.com/user-attachments/assets/2492ad7d-4816-4d28-a8ac-7c1405ec1a66" />
 
   <br>
   <em>Figure 1: Cross-sectional and longitudinal view of the 600A liquid-cooled charging cable model.</em>
